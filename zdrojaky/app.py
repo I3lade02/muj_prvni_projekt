@@ -1,4 +1,4 @@
-jmena = ["Pavel", "Ondra", "Honza"]
+jmena = ["Pavel", "Ondra", "Angelina"]
 
 for jmeno in jmena:
     print(jmeno)
